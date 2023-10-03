@@ -1,13 +1,17 @@
 # getting-started-with-blazor-timepicker
-The [Blazor Timepicker](https://www.syncfusion.com/blazor-components/blazor-timepicker?utm_source=github&utm_medium=listing&utm_campaign=blazor-timepicker-github-samples) is a lightweight and mobile-friendly component that allows end users to select a time value either from a pop-up time list or by entering the value directly in the text box. A quick-start project that helps you to create a new Blazor application using Visual Studio 2019 and add the Syncfusion Blazor TimePicker to it. This project contains simple code customizations, as well as some important features such as setting specific values, ranges, and formats to the TimePicker component.
 
-## Project prerequisites
+The [Blazor Timepicker](https://www.syncfusion.com/blazor-components/blazor-timepicker?utm_source=github&utm_medium=listing&utm_campaign=blazor-timepicker-github-samples) is a lightweight and mobile-friendly component that allows end users to select a time value either from a pop-up time list or by entering the value directly in the text box. A quick-start project that helps you to create a new Blazor application using Visual Studio 2022 and add the Syncfusion Blazor TimePicker to it. This project contains simple code customizations, as well as some important features such as setting specific values, ranges, and formats to the TimePicker component.
 
-Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK 3.1.2 in your machine before starting to work on this project.
+## Prerequisites
 
-## How to run this application?
+* Visual Studio 2022
 
-To run this application, you need to first clone the `getting-started-with-blazor-timepicker` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and Benefits
 

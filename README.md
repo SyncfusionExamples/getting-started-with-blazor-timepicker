@@ -1,6 +1,9 @@
 # getting-started-with-blazor-timepicker
 The [Blazor Timepicker](https://www.syncfusion.com/blazor-components/blazor-timepicker?utm_source=github&utm_medium=listing&utm_campaign=blazor-timepicker-github-samples) is a lightweight and mobile-friendly component that allows end users to select a time value either from a pop-up time list or by entering the value directly in the text box. A quick-start project that helps you to create a new Blazor application using Visual Studio 2019 and add the Syncfusion Blazor TimePicker to it. This project contains simple code customizations, as well as some important features such as setting specific values, ranges, and formats to the TimePicker component.
 
+[documentation](https://blazor.syncfusion.com/documentation/timepicker/getting-started)
+[View demo](https://blazor.syncfusion.com/demos/timepicker/default-functionalities)
+
 ## Project prerequisites
 
 Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK 3.1.2 in your machine before starting to work on this project.
